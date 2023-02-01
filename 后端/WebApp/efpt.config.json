@@ -1,0 +1,72 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "GradeDbContext",
+   "ContextNamespace": "Context",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Context",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "WebApp",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Shentukq_Class18]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Shentukq_ClassCourse18]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Shentukq_Course18]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Shentukq_Major18]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Shentukq_Student18]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Shentukq_StudentCourse18]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Shentukq_Teacher18]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Shentukq_TeacherCourse18]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Shentukq_User18]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[StudentFull]",
+         "ObjectType": 3
+      }
+   ],
+   "UiHint": "USER-20160913KD.Shentukq_GradeDb18",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
